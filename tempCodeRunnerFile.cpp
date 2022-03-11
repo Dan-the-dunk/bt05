@@ -1,1 +1,1 @@
-turn 69;
+return res;
